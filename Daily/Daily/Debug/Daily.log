@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/7/12 17:05:30。
+     1>项目“C:\Users\SS\Desktop\Newcoder\Daily\Daily\Daily.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 07_12.cpp
+         07_12.cpp
+     1>c:\users\ss\desktop\newcoder\daily\daily\07_12.cpp(92): error C2144: 语法错误:“int”的前面应有“;”
+     1>c:\users\ss\desktop\newcoder\daily\daily\07_12.cpp(92): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\ss\desktop\newcoder\daily\daily\07_12.cpp(113): fatal error C1004: 发现意外的文件尾
+     1>已完成生成项目“C:\Users\SS\Desktop\Newcoder\Daily\Daily\Daily.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.64
