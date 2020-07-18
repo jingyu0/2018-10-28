@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/4/9 11:38:37。
+     1>项目“C:\Users\SS\Desktop\2019-0407\2019-0407\2019-0407.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(212): error C4996: 'GetVersionExA': 被声明为已否决
+                 c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433) : 参见“GetVersionExA”的声明
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(219): error C2065: “HIGH_PRIORTY_CLASS”: 未声明的标识符
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(219): error C2051: case 表达式不是常量
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(222): error C2065: “NORMAL_PRIORTY_CLASS”: 未声明的标识符
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(222): error C2051: case 表达式不是常量
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(225): error C2065: “IDLE_PRIORTY_CLASS”: 未声明的标识符
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(225): error C2051: case 表达式不是常量
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(228): error C2065: “REALTIME_PRIORTY_CLASS”: 未声明的标识符
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(228): error C2051: case 表达式不是常量
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(234): warning C4065: switch 语句包含“default”但是未包含“case”标签
+     1>c:\users\ss\desktop\2019-0407\2019-0407\main.cpp(237): error C2039: “dwPlatformld”: 不是“_OSVERSIONINFOEXA”的成员
+                 c:\program files (x86)\windows kits\8.1\include\um\winnt.h(17860) : 参见“_OSVERSIONINFOEXA”的声明
+     1>已完成生成项目“C:\Users\SS\Desktop\2019-0407\2019-0407\2019-0407.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.60
